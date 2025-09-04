@@ -1,0 +1,608 @@
+Uri: https://p.typekit.net/p.css?s=1&k=dae5nne&ht=tk&f=15498.15510.28987&a=25446461&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\p.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/7f1b26/00000000000000007735a0ac/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\7f1b26\00000000000000007735a0ac\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/7f1b26/00000000000000007735a0ac/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\7f1b26\00000000000000007735a0ac\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/7f1b26/00000000000000007735a0ac/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\7f1b26\00000000000000007735a0ac\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/919419/00000000000000007735b227/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\919419\00000000000000007735b227\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/919419/00000000000000007735b227/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\919419\00000000000000007735b227\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/919419/00000000000000007735b227/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\919419\00000000000000007735b227\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/9d5bd3/00000000000000007735a09f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\9d5bd3\00000000000000007735a09f\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/9d5bd3/00000000000000007735a09f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\9d5bd3\00000000000000007735a09f\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/9d5bd3/00000000000000007735a09f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\af\9d5bd3\00000000000000007735a09f\30\l
+Content Type: application/font-woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-YB67QG6LE6
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/favicon.ico
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.londrinaautocenter.com.br/Revisao/
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\Revisao\index-1.htm
+Content Type: text/html
+
+Uri: https://www.londrinaautocenter.com.br/Revisao/?gad_source=1&gad_campaignid=22103552292&gbraid=0AAAAApvE2xmwEDeAYFKck6i1DrTnzbko9&gclid=Cj0KCQjw8eTFBhCXARIsAIkiuOyRaPKya8D3NkSgNU301PLhn8FzzzeVDadWdQihLMsBSnWk6R9lAO4aAmJBEALw_wcB
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\Revisao\index.htm
+Content Type: text/html
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout-service.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fabout.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-4.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-5.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-6.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-7.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-1.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-2.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fpartnership.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\partnership-3.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fquality.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\quality-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-7.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-8.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-9.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-10.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-5.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fservice.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-6.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fbenefits-icons%2Fsupport.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\support-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-4.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-5.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-6.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-7.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-1.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-2.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition-star.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-star-3.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fdeposition.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\deposition-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo-footer.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-footer-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Flogo.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-1.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-4.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-5.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-6.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-7.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-1.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-2.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-2.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-2-3.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-4.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-5.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-6.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-7.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-1.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-2.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-3.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-3-3.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-4.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-5.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-6.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-7.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-1.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-2.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fservices-icons%2Fservice-4.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\service-4-3.webp
+Content Type: image/webp
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=%2Fimages%2Fwhats.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\whats-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/image/?url=https:%2F%2Fpainel-londrinaautocenter.codiehost.com.br%2Fuploads%2F133311382018622944.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\image\133311382018622944-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/588-9adf13b542d0500c.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\588-9adf13b542d0500c.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/framework-d32cbf6bd2a2c499.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\framework-d32cbf6bd2a2c499.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/main-652efc76606cfdbe.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\main-652efc76606cfdbe.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/pages/[url]-24f0b79c64371219.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\pages\[url]-24f0b79c64371219.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/pages/_app-af1ed90629b5a047.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\pages\_app-af1ed90629b5a047.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/chunks/webpack-a4f8b795d2eb4d91.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\chunks\webpack-a4f8b795d2eb4d91.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/css/78d665decd5e9926.css
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\css\78d665decd5e9926.css
+Content Type: text/css
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/HdUxmESYwkRpM6jlyShWB/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\HdUxmESYwkRpM6jlyShWB\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.londrinaautocenter.com.br/_next/static/HdUxmESYwkRpM6jlyShWB/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.londrinaautocenter.com.br\_next\static\HdUxmESYwkRpM6jlyShWB\_ssgManifest.js
+Content Type: application/javascript
+
